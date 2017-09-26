@@ -1,0 +1,6 @@
+# Disallow
+*
+
+# Allow
+!plugins/
+!.gitignore
