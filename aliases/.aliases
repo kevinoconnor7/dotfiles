@@ -6,4 +6,4 @@ alias ve="vim ~/.vimrc"
 alias te="vim ~/.tmux.conf"
 
 # Load local aliases
-source ~/.aliases.local
+[[ -f "~/.aliases.local" ]] && source "~/.aliases.local"
