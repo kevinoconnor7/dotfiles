@@ -3,6 +3,8 @@
   email = kevin@kevo.io
 [credential]
   helper = osxkeychain
+[commit]
+  gpgsign = true
 [core]
   editor = vim
   excludesfile = ~/.gitignore
